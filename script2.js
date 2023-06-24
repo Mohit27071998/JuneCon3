@@ -26,7 +26,7 @@ logout.addEventListener('click',()=>{
 
 function navigateToProfile(){
 // window.location.pathname
-let path = '/f3con3/profile.html';
+let path = '/profile.html';
 
 // video_id: video_id
 let linkItem = document.createElement("a");
