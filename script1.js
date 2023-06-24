@@ -45,7 +45,7 @@ function generateAccessToken() {
 // })    
 function navigateToProfile(token){
 // window.location.pathname
-let path = '/index.html';
+
 if(token){
 // video_id: video_id
 let linkItem = document.createElement("a");
